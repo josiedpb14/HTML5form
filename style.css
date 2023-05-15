@@ -5,3 +5,9 @@ body{
     font-size: small;
     color: grey;
 }
+.cardType{
+    width: 45%;
+    border-radius: 5px;
+    padding: 5px;
+    background-color:#666699;
+}
